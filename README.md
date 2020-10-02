@@ -2,7 +2,10 @@
 
 ### API  developed with Django
 #### Funcitionalities:
-* Compute a sum operation between to numbers
+* Compute a sum operation between two numbers.
+* API ready to scale adding more operation.
+* Front End Ready to scale to add more funcionalities.
+
 
 
 #### How to run it:
