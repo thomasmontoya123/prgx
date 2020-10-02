@@ -17,8 +17,9 @@
 
 #### Using it
 * Use the web app
-- navigate to * open a web browser and navigate to http://127.0.0.1:8000/
-* Call the Api endpoint using postman
+* open a web browser and navigate to http://127.0.0.1:8000/
+
+* Or call the Api endpoint using postman
 - method POST http://127.0.0.1:8000/add
 - Add number1 and number2 as body parameters
 
