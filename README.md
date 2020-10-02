@@ -26,7 +26,7 @@
 
 #### What to expect
 * Post Request With body
-!(image)[https://i.imgur.com/GWZM4ZR.png]
+<img src="https://i.imgur.com/GWZM4ZR.png"/>
 
 * Front end
-!(image)[https://i.imgur.com/shghYRw.png]
+<img src="https://i.imgur.com/shghYRw.png"/>
